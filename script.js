@@ -27,15 +27,15 @@ function stopGame(){
     {
         switch(contador){
             case 0:
-                p3.innerHTML = "Deixa eu adivinhar... Apertou antes do tempo, tente novamente XD";
+                p3.innerHTML = "Deixa eu adivinhar... Apertou antes do tempo, tente novamente.";
                 contador++;
                 break;
             case 1:
-                p3.innerHTML = "De novo? Respira, errar é humano, tente novamente XD";
+                p3.innerHTML = "De novo? Respira, errar é humano, tente novamente.";
                 contador++;
                 break;
             case 2:
-                p3.innerHTML = "Se atente ao retangulo, ele tem que estar verde, tente novamente XD";
+                p3.innerHTML = "Se atente ao retangulo, ele tem que estar verde, tente novamente.";
                 contador++;
                 break;
             default:
