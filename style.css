@@ -2,7 +2,7 @@ div#div1{
     background-color: red;
     height: 200px;
     width: 600px;
-    top: 55% ;
+    top: 65% ;
     right: 50%;
     position: absolute;
     transform: translate(50%, -50%);
